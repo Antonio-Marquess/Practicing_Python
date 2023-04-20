@@ -7,7 +7,8 @@ Cada usuário terá um nível de acesso e só poderá acessar áreas específica
 usuarios = {
     1: {"senha": "abc123", "nivel_acesso": "A"},
     2: {"senha": "xyz987", "nivel_acesso": "B"},
-    3: {"senha": "mno456", "nivel_acesso": "C"}
+    3: {"senha": "mno456", "nivel_acesso": "C"},
+    4: {"senha": "abc123", "nivel_acesso": "D"},
 }
 
 id_usuario = int(input("Digite seu ID de usuário: "))
